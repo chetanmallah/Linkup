@@ -1,2 +1,4 @@
-# Linkup
-visit linkup-pink.vercel.app
+Click here to visit
+
+
+linkup-pink.vercel.app
